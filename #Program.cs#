@@ -1,0 +1,24 @@
+namespace sharpPractice
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.Clear();
+
+      int num = 5;
+      int length = 6;
+      int[] multipleArr = new int[length];
+
+      for (int i = 0; i < length; i++)
+      {
+        multipleArr[i] = num * (i + 1);
+      }
+
+      foreach (int n in multipleArr)
+      {
+        Console.Write($"{n} ");
+      }
+    }
+  }
+}
