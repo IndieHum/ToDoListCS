@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/moein/Desktop/linuxDev/csharpPractice/csharpPractice.csproj": {}
+    "/home/moein/Desktop/linuxDev/ToDoListCS/csharpPractice.csproj": {}
   },
   "projects": {
-    "/home/moein/Desktop/linuxDev/csharpPractice/csharpPractice.csproj": {
+    "/home/moein/Desktop/linuxDev/ToDoListCS/csharpPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/moein/Desktop/linuxDev/csharpPractice/csharpPractice.csproj",
+        "projectUniqueName": "/home/moein/Desktop/linuxDev/ToDoListCS/csharpPractice.csproj",
         "projectName": "csharpPractice",
-        "projectPath": "/home/moein/Desktop/linuxDev/csharpPractice/csharpPractice.csproj",
+        "projectPath": "/home/moein/Desktop/linuxDev/ToDoListCS/csharpPractice.csproj",
         "packagesPath": "/home/moein/.nuget/packages/",
-        "outputPath": "/home/moein/Desktop/linuxDev/csharpPractice/obj/",
+        "outputPath": "/home/moein/Desktop/linuxDev/ToDoListCS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/moein/.nuget/NuGet/NuGet.Config"
